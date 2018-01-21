@@ -1,0 +1,13 @@
+group 'com.sxtanna.ver'
+version '1.0'
+
+ext {
+    versionSpigot1_9_4 = '1.9.4-R0.1-SNAPSHOT'
+}
+
+dependencies {
+
+    compileOnly project(":Compat")
+    compileOnly "org.spigotmc:spigot:$versionSpigot1_9_4"
+
+}

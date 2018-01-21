@@ -1,0 +1,6 @@
+rootProject.name = 'VersionedGradle'
+include 'Compat'
+include 'Plugin'
+include 'Version1_9'
+include 'Version1_8'
+include 'Version1_10'

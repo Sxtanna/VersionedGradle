@@ -1,0 +1,8 @@
+group 'com.sxtanna.ver'
+version '1.0'
+
+dependencies {
+
+    compileOnly "org.spigotmc:spigot-api:+"
+
+}
